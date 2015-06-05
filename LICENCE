@@ -1,7 +1,7 @@
 License
 
 "FreeMind is free software and open source software, licensed under GNU GPL V2+ (GNU General Public License), where "V2+" means "version 2 of the License, or (at your option) any later version". Basically, that means that you are free to use FreeMind to whatever purpose you want without paying for that, and that any code derived from current FreeMind's code must also be licensed under GPL V2+. See also Licensing. "
-
+"FreeMind source code files are licensed under GNU GPL V2+. However, FreeMind as a whole program bundled with libraries or components is licensed under GNU GPL V3+, which is contained in GNU GPL V2+. The reason for the difference is that FreeMind links to libraries or components licensed under Apache 2.0, a license compatible with GNU GPL V3 but not with GNU GPL V2. "
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
